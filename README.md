@@ -1,8 +1,8 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Materia - FAMAF - Matemática Aplicada
 
-> Cuatrimestre
+> 1C
 
 ## Correlativas para **cursar**
 
@@ -25,13 +25,13 @@
 > http
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF.git
 ```
 
 > ssh
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF.git
 ```
 
 ## Aula virtual
@@ -45,6 +45,6 @@ Este es un proyecto con fines de facilitar el acceso al material para estudio.
 Cualquier persona puede realizar su aporte con apunte, resumen, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF"/>
 </a>
