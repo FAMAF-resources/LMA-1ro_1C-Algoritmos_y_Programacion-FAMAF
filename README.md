@@ -1,6 +1,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF)
 
-# Materia - FAMAF - Matemática Aplicada
+# Algoritmos y Programación - FAMAF - Matemática Aplicada
 
 > 1C
 
